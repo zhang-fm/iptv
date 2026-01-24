@@ -1,0 +1,61 @@
+name: FOFA IP Update
+
+on:
+  schedule:
+    # 设定在每小时的 13, 33, 53 分触发，避开系统整点高峰
+    - cron: "13,33,53 * * * *"
+  workflow_dispatch:
+
+jobs:
+  fetch-and-push:
+    runs-on: ubuntu-latest
+    # 添加超时保护，防止死循环任务挂起
+    timeout-minutes: 60
+    concurrency:
+      group: fofa-group
+      cancel-in-progress: false
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Install ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Run Python Script
+        run: python py/AmJiB.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # 1. 先把所有可能产生的变更（包括 IP 和 Index）添加到暂存区
+          # 注意：这里用 git add -A 会包括所有新生成的文件
+          git add -A
+          
+          # 2. 检查是否有真正的内容变动
+          if git diff --cached --quiet; then
+            echo "✅ 内容无变更，跳过提交"
+            exit 0
+          fi
+          
+          # 3. 先提交到本地仓库，让本地工作区变“干净”
+          git commit -m "自动更新：线路、黑名单及索引 $(date '+%Y-%m-%d %H:%M')"
+          
+          # 4. 此时本地已干净，可以安全地拉取远程更新并合并
+          # 如果远程有变动，--rebase 会把你的 commit 接在后面
+          git pull --rebase origin main
+          
+          # 5. 推送最终结果
+          git push origin main
