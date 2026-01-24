@@ -19,7 +19,7 @@ BLACKLIST_FILE = "py/blacklist.txt"
 
 CHECK_COUNT = 3      # 每个服务器抽测 3 个频道
 CHECK_TIMEOUT = 10   # 每个频道超时时间
-MIN_PEAK_REQUIRED = 2.00  # 峰值门槛 MB/s
+MIN_PEAK_REQUIRED = 0.50  # 峰值门槛 MB/s
 
 def load_blacklist():
     if os.path.exists(BLACKLIST_FILE):
