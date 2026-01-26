@@ -841,66 +841,6 @@ http://115.45.243.189:8888/rtp/239.77.1.198:5146$广东电信
 http://115.45.243.189:8888/rtp/239.253.43.126:5146$广东电信
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV1.png" group-title="央视频道",CCTV1
-http://www.brucex.space:4022/rtp/239.3.1.129:8008$北京市联通
-
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV2.png" group-title="央视频道",CCTV2
-http://www.brucex.space:4022/rtp/239.3.1.60:8084$北京市联通
-
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV3.png" group-title="央视频道",CCTV3
-http://www.brucex.space:4022/rtp/239.3.1.172:8001$北京市联通
-
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV4.png" group-title="央视频道",CCTV4
-http://www.brucex.space:4022/rtp/239.3.1.105:8092$北京市联通
-
-#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV4欧洲.png" group-title="央视频道",CCTV4欧洲
-http://www.brucex.space:4022/rtp/239.3.1.213:4220$北京市联通
-
-#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV4美洲.png" group-title="央视频道",CCTV4美洲
-http://www.brucex.space:4022/rtp/239.3.1.214:4220$北京市联通
-
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV5.png" group-title="央视频道",CCTV5
-http://www.brucex.space:4022/rtp/239.3.1.173:8001$北京市联通
-
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV.png" group-title="央视频道",CCTV5+
-http://www.brucex.space:4022/rtp/239.3.1.130:8004$北京市联通
-
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV6.png" group-title="央视频道",CCTV6
-http://www.brucex.space:4022/rtp/239.3.1.174:8001$北京市联通
-
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV7.png" group-title="央视频道",CCTV7
-http://www.brucex.space:4022/rtp/239.3.1.61:8104$北京市联通
-
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV8.png" group-title="央视频道",CCTV8
-http://www.brucex.space:4022/rtp/239.3.1.175:8001$北京市联通
-
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV9.png" group-title="央视频道",CCTV9
-http://www.brucex.space:4022/rtp/239.3.1.62:8112$北京市联通
-
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV10.png" group-title="央视频道",CCTV10
-http://www.brucex.space:4022/rtp/239.3.1.63:8116$北京市联通
-
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV11.png" group-title="央视频道",CCTV11
-http://www.brucex.space:4022/rtp/239.3.1.152:8120$北京市联通
-
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV12.png" group-title="央视频道",CCTV12
-http://www.brucex.space:4022/rtp/239.3.1.64:8124$北京市联通
-
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV13.png" group-title="央视频道",CCTV13
-http://www.brucex.space:4022/rtp/239.3.1.124:8128$北京市联通
-
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV14.png" group-title="央视频道",CCTV14
-http://www.brucex.space:4022/rtp/239.3.1.65:8132$北京市联通
-
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV15.png" group-title="央视频道",CCTV15
-http://www.brucex.space:4022/rtp/239.3.1.153:8136$北京市联通
-
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV16.png" group-title="央视频道",CCTV16
-http://www.brucex.space:4022/rtp/239.3.1.184:8001$北京市联通
-
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV17.png" group-title="央视频道",CCTV17
-http://www.brucex.space:4022/rtp/239.3.1.151:8144$北京市联通
-
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV1.png" group-title="央视频道",CCTV1
 http://115.171.216.84:4000/rtp/225.1.8.1:8008$北京市电信
 
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV2.png" group-title="央视频道",CCTV2
@@ -3104,105 +3044,6 @@ http://115.45.243.189:8888/rtp/239.77.1.114:5146$广东电信
 http://115.45.243.189:8888/rtp/239.77.1.122:5146$广东电信
 
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://www.brucex.space:4022/rtp/239.3.1.132:8012$北京市联通
-
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://www.brucex.space:4022/rtp/239.3.1.112:3002$北京市联通
-
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://www.brucex.space:4022/rtp/239.3.1.137:8036$北京市联通
-
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://www.brucex.space:4022/rtp/239.3.1.114:3004$北京市联通
-
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://www.brucex.space:4022/rtp/239.3.1.135:8028$北京市联通
-
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/东方卫视.png" group-title="卫视频道",东方卫视
-http://www.brucex.space:4022/rtp/239.3.1.136:8032$北京市联通
-
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/东方卫视.png" group-title="卫视频道",东方卫视
-http://www.brucex.space:4022/rtp/239.3.1.119:3006$北京市联通
-
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://www.brucex.space:4022/rtp/239.3.1.134:8020$北京市联通
-
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://www.brucex.space:4022/rtp/239.3.1.202:2000$北京市联通
-
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京卫视.png" group-title="卫视频道",北京卫视
-http://www.brucex.space:4022/rtp/239.3.1.241:8000$北京市联通
-
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京卫视.png" group-title="卫视频道",北京卫视
-http://www.brucex.space:4022/rtp/239.3.1.118:8001$北京市联通
-
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/广东卫视.png" group-title="卫视频道",广东卫视
-http://www.brucex.space:4022/rtp/239.3.1.142:8048$北京市联通
-
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/广东卫视.png" group-title="卫视频道",广东卫视
-http://www.brucex.space:4022/rtp/239.3.1.203:2000$北京市联通
-
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/东南卫视.png" group-title="卫视频道",东南卫视
-http://www.brucex.space:4022/rtp/239.3.1.156:8148$北京市联通
-
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/河北卫视.png" group-title="卫视频道",河北卫视
-http://www.brucex.space:4022/rtp/239.3.1.148:8072$北京市联通
-
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/河南卫视.png" group-title="卫视频道",河南卫视
-http://www.brucex.space:4022/rtp/239.3.1.50:8184$北京市联通
-
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://www.brucex.space:4022/rtp/239.3.1.138:8044$北京市联通
-
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/江西卫视.png" group-title="卫视频道",江西卫视
-http://www.brucex.space:4022/rtp/239.3.1.123:8164$北京市联通
-
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川卫视.png" group-title="卫视频道",四川卫视
-http://www.brucex.space:4022/rtp/239.3.1.131:3001$北京市联通
-
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://www.brucex.space:4022/rtp/239.3.1.122:8160$北京市联通
-
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://www.brucex.space:4022/rtp/239.3.1.149:8076$北京市联通
-
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/天津卫视.png" group-title="卫视频道",天津卫视
-http://www.brucex.space:4022/rtp/239.3.1.141:1234$北京市联通
-
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://www.brucex.space:4022/rtp/239.3.1.211:8064$北京市联通
-
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/山东卫视.png" group-title="卫视频道",山东卫视
-http://www.brucex.space:4022/rtp/239.3.1.209:8052$北京市联通
-
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/山东卫视.png" group-title="卫视频道",山东卫视
-http://www.brucex.space:4022/rtp/239.3.1.144:3005$北京市联通
-
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://www.brucex.space:4022/rtp/239.3.1.210:8056$北京市联通
-
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://www.brucex.space:4022/rtp/239.3.1.133:8016$北京市联通
-
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://www.brucex.space:4022/rtp/239.3.1.240:8172$北京市联通
-
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/西藏卫视.png" group-title="卫视频道",西藏卫视
-http://www.brucex.space:4022/rtp/239.3.1.166:8188$北京市联通
-
-#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/山东教育卫视.png" group-title="卫视频道",山东教育卫视
-http://www.brucex.space:4022/rtp/239.3.1.52:4120$北京市联通
-
-#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/中国教育1台.png" group-title="卫视频道",中国教育1台
-http://www.brucex.space:4022/rtp/239.3.1.57:8152$北京市联通
-
-#EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/中国教育2台.png" group-title="卫视频道",中国教育2台
-http://www.brucex.space:4022/rtp/239.3.1.54:4120$北京市联通
-
-#EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/中国教育4台.png" group-title="卫视频道",中国教育4台
-http://www.brucex.space:4022/rtp/239.3.1.56:4120$北京市联通
-
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://115.171.216.84:4000/rtp/225.1.8.41:8012$北京市电信
 
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/浙江卫视.png" group-title="卫视频道",浙江卫视
@@ -4740,51 +4581,6 @@ http://brucex.space:4022/rtp/239.3.1.147:9268$北京市联通
 http://brucex.space:4022/rtp/239.3.1.188:8001$北京市联通
 
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/淘电影.png" group-title="数字频道",淘电影
-http://www.brucex.space:4022/rtp/239.3.1.250:8001$北京市联通
-
-#EXTINF:-1 tvg-name="淘剧场" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/淘剧场.png" group-title="数字频道",淘剧场
-http://www.brucex.space:4022/rtp/239.3.1.95:8001$北京市联通
-
-#EXTINF:-1 tvg-name="淘娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/淘娱乐.png" group-title="数字频道",淘娱乐
-http://www.brucex.space:4022/rtp/239.3.1.100:8001$北京市联通
-
-#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/金鹰纪实.png" group-title="数字频道",金鹰纪实
-http://www.brucex.space:4022/rtp/239.3.1.58:8156$北京市联通
-
-#EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/纪实科教.png" group-title="数字频道",纪实科教
-http://www.brucex.space:4022/rtp/239.3.1.115:8000$北京市联通
-
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/睛彩青少.png" group-title="数字频道",睛彩青少
-http://www.brucex.space:4022/rtp/239.3.1.127:8001$北京市联通
-
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/睛彩竞技.png" group-title="数字频道",睛彩竞技
-http://www.brucex.space:4022/rtp/239.3.1.125:8001$北京市联通
-
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/睛彩篮球.png" group-title="数字频道",睛彩篮球
-http://www.brucex.space:4022/rtp/239.3.1.126:8001$北京市联通
-
-#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/睛彩广场舞.png" group-title="数字频道",睛彩广场舞
-http://www.brucex.space:4022/rtp/239.3.1.128:8001$北京市联通
-
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/快乐垂钓.png" group-title="数字频道",快乐垂钓
-http://www.brucex.space:4022/rtp/239.3.1.164:8001$北京市联通
-
-#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/茶频道.png" group-title="数字频道",茶频道
-http://www.brucex.space:4022/rtp/239.3.1.165:8001$北京市联通
-
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/卡酷少儿.png" group-title="数字频道",卡酷少儿
-http://www.brucex.space:4022/rtp/239.3.1.189:8000$北京市联通
-
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/金鹰卡通.png" group-title="数字频道",金鹰卡通
-http://www.brucex.space:4022/rtp/239.3.1.51:9252$北京市联通
-
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/嘉佳卡通.png" group-title="数字频道",嘉佳卡通
-http://www.brucex.space:4022/rtp/239.3.1.147:9268$北京市联通
-
-#EXTINF:-1 tvg-name="中国交通" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/中国交通.png" group-title="数字频道",中国交通
-http://www.brucex.space:4022/rtp/239.3.1.188:8001$北京市联通
-
-#EXTINF:-1 tvg-name="淘电影" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/淘电影.png" group-title="数字频道",淘电影
 http://115.171.216.84:4000/rtp/225.1.8.38:8002$北京市电信
 
 #EXTINF:-1 tvg-name="淘精彩" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/淘精彩.png" group-title="数字频道",淘精彩
@@ -5648,9 +5444,6 @@ http://115.45.243.189:8888/rtp/239.77.0.57:5146$广东电信
 
 #EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/江苏卫视.png" group-title="4K频道",江苏卫视4K
 http://115.45.243.189:8888/rtp/239.77.0.57:5146$广东电信
-
-#EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/江苏卫视.png" group-title="4K频道",江苏卫视4K
-http://www.brucex.space:4022/rtp/239.3.1.113:3003$北京市联通
 
 #EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/江苏卫视.png" group-title="4K频道",江苏卫视4K
 http://183.220.107.138:4022/rtp/239.11.0.88:5140$四川移动
