@@ -4,7 +4,7 @@ import re
 # ===============================
 # 配置区
 # ===============================
-INPUT_FILE = "py/livezubo.txt"          # 输入文件
+INPUT_FILE = "test/IPTV.txt"          # 输入文件
 OUTPUT_FILE = "test/IPTV.m3u"             # 输出文件
 LOGO_BASE = "https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/"
 EPG_URL = "https://live.fanmingming.cn/e.xml"
