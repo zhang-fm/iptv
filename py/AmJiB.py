@@ -271,64 +271,89 @@ def second_stage():
 
 def third_stage():
     print("🧩 第三阶段：测速并生成 IPTV.txt")
-    if not os.path.exists(ZUBO_FILE): return
+    if not os.path.exists(ZUBO_FILE): 
+        print("⚠️ zubo.txt 不存在，跳过")
+        return
 
+    # 1. 定义检测函数
     def check_stream(url):
         try:
-            result = subprocess.run(["ffprobe", "-v", "error", "-show_streams", "-i", url], 
-                                    capture_output=True, timeout=7)
+            # 使用 ffprobe 探测流，超时时间设为 5 秒
+            result = subprocess.run(
+                ["ffprobe", "-v", "error", "-show_streams", "-i", url], 
+                capture_output=True, timeout=5
+            )
             return b"codec_type" in result.stdout
-        except: return False
+        except:
+            return False
 
-    # 逻辑简化：此处应包含你的多线程检测逻辑
-    # 为节省空间，此处演示核心逻辑：
-    print("🚀 正在检测可用性 (ffprobe)...")
-    # ... 检测逻辑 ...
-    # 假设检测后的 valid_lines 已生成
+    # 2. 读取 zubo.txt 并准备数据
+    all_lines = []
+    with open(ZUBO_FILE, "r", encoding="utf-8") as f:
+        all_lines = [l.strip() for l in f if "," in l]
 
-    beijing_now = (datetime.now(timezone.utc) + timedelta(hours=8)).strftime("%Y-%m-%d %H:%M:%S")
-    with open(IPTV_FILE, "w", encoding="utf-8") as f:
-        f.write(f"更新时间,#genre#\n{beijing_now},#genre#\n\n")
-        # 写入分类频道 (此处引用你的 CATEGORIES 逻辑)
+    if not all_lines:
+        print("⚠️ zubo.txt 中没有有效地址")
+        return
+
+    # 3. 提取唯一 IP 进行代表性检测 (优化：不测 5 万行，只测 IP 是否存活)
+    ip_groups = {}
+    for line in all_lines:
+        name, url = line.split(",", 1)
+        # 提取 http://ip:port/
+        match = re.match(r"http://([^/]+)/", url)
+        if match:
+            ip_port = match.group(1)
+            ip_groups.setdefault(ip_port, []).append(line)
+
+    print(f"🚀 正在检测 {len(ip_groups)} 个 IP 源的存活状态...")
+    playable_ips = set()
     
-    # 备份
-    if os.path.exists(IPTV_FILE):
+    # 这里的 max_workers 可以根据 Actions 性能调整，建议 10-20
+    with concurrent.futures.ThreadPoolExecutor(max_workers=15) as executor:
+        # 每个 IP 组随机选一个频道测速
+        future_to_ip = {executor.submit(check_stream, lines[0].split(",")[1]): ip 
+                        for ip, lines in ip_groups.items() if lines}
+        
+        for future in concurrent.futures.as_completed(future_to_ip):
+            ip = future_to_ip[future]
+            if future.result():
+                playable_ips.add(ip)
+
+    print(f"✅ 检测完成，有效 IP 源: {len(playable_ips)} 个")
+
+    # 4. 筛选出有效 IP 的所有频道
+    valid_results = []
+    for ip in playable_ips:
+        valid_results.extend(ip_groups[ip])
+
+    # 5. 按照分类写入 IPTV.txt
+    beijing_now = (datetime.now(timezone.utc) + timedelta(hours=8)).strftime("%Y-%m-%d %H:%M:%S")
+    
+    try:
+        with open(IPTV_FILE, "w", encoding="utf-8") as f:
+            f.write(f"更新时间,#genre#\n{beijing_now},#genre#\n\n")
+            
+            for category, ch_list in CHANNEL_CATEGORIES.items():
+                f.write(f"{category},#genre#\n")
+                # 遍历该分类下的标准名
+                for target_ch in ch_list:
+                    # 在有效结果中找匹配的
+                    for line in valid_results:
+                        ch_name, url = line.split(",", 1)
+                        # 这里匹配：如果是标准名，或者在别名映射里
+                        if ch_name == target_ch or ch_name in CHANNEL_MAPPING.get(target_ch, []):
+                            f.write(f"{target_ch},{url}\n")
+                f.write("\n")
+        
+        print(f"🎯 IPTV.txt 生成完成，有效频道行数: {len(valid_results)}")
+
+        # 6. 同步备份到 live.txt
         with open(IPTV_FILE, "r", encoding="utf-8") as s, open(LIVE_BACKUP_FILE, "w", encoding="utf-8") as d:
             d.write(s.read())
-
-def push_all_files():
-    print("🚀 推送所有更新文件到 GitHub...")
-    try:
-        # 配置用户信息
-        subprocess.run(['git', 'config', '--global', 'user.name', 'github-actions'], check=True)
-        subprocess.run(['git', 'config', '--global', 'user.email', 'github-actions@users.noreply.github.com'], check=True)
-        
-        # 添加具体文件，避免添加不必要的临时文件
-        files_to_add = [COUNTER_FILE, ZUBO_FILE, IPTV_FILE, LIVE_BACKUP_FILE]
-        for f in files_to_add:
-            if os.path.exists(f):
-                subprocess.run(['git', 'add', f], check=True)
-        
-        # 处理整个 ip 文件夹
-        if os.path.exists(IP_DIR):
-            subprocess.run(['git', 'add', f"{IP_DIR}/*.txt"], check=False)
-
-        # 检查是否有变动
-        res = subprocess.run(['git', 'status', '--porcelain'], capture_output=True, text=True)
-        if not res.stdout.strip():
-            print("⚠️ 没有文件变动，跳过推送。")
-            return
-
-        subprocess.run(['git', 'commit', '-m', f"自动更新数据 {datetime.now().strftime('%m-%d %H:%M')}"], check=True)
-        
-        # 核心：使用 rebase 和 autostash 解决冲突
-        print("🔄 同步远程仓库 (Rebase)...")
-        subprocess.run(['git', 'pull', 'origin', 'main', '--rebase', '--autostash'], check=True)
-        subprocess.run(['git', 'push', 'origin', 'main'], check=True)
-        print("✅ 推送成功！")
+            
     except Exception as e:
-        print(f"❌ 推送过程出错: {e}")
-
+        print(f"❌ 写入文件失败: {e}")
 if __name__ == "__main__":
     run_count = first_stage()
     if run_count % 10 == 0:
