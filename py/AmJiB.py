@@ -230,24 +230,44 @@ def first_stage():
 def second_stage():
     print("🔔 第二阶段：生成 zubo.txt")
     combined_lines = []
-    if not os.path.exists(RTP_DIR): return
+    if not os.path.exists(RTP_DIR) or not os.path.exists(IP_DIR): 
+        print("⚠️ 目录缺失，跳过第二阶段")
+        return
 
     for ip_file in os.listdir(IP_DIR):
+        if not ip_file.endswith(".txt"): continue
+        
         rtp_path = os.path.join(RTP_DIR, ip_file)
         ip_path = os.path.join(IP_DIR, ip_file)
+        
         if os.path.exists(rtp_path):
-            with open(ip_path, encoding="utf-8") as f1, open(rtp_path, encoding="utf-8") as f2:
-                ips = [x.strip() for x in f1 if x.strip()]
-                rtps = [x.strip() for x in f2 if x.strip()]
-                for ip in ips:
-                    for rtp in rtps:
-                        if "," in rtp:
-                            name, url = rtp.split(",", 1)
-                            proto = "rtp" if "rtp://" in url else "udp"
-                            combined_lines.append(f"{name},http://{ip}/{proto}/{url.split('://')[1]}")
+            try:
+                with open(ip_path, encoding="utf-8") as f1, open(rtp_path, encoding="utf-8") as f2:
+                    ips = [x.strip() for x in f1 if x.strip()]
+                    rtps = [x.strip() for x in f2 if x.strip()]
+                    for ip in ips:
+                        for rtp in rtps:
+                            if "," in rtp and "://" in rtp: # 增加安全检查
+                                try:
+                                    name, url = rtp.split(",", 1)
+                                    proto = "rtp" if "rtp://" in url else "udp"
+                                    # 使用分割并判断长度，防止下标溢出
+                                    url_parts = url.split("://")
+                                    if len(url_parts) > 1:
+                                        addr = url_parts[1]
+                                        combined_lines.append(f"{name},http://{ip}/{proto}/{addr}")
+                                except Exception:
+                                    continue # 忽略单行解析错误
+            except Exception as e:
+                print(f"⚠️ 处理 {ip_file} 时出错: {e}")
+                continue
     
-    with open(ZUBO_FILE, "w", encoding="utf-8") as f:
-        f.write("\n".join(list(set(combined_lines))))
+    if combined_lines:
+        with open(ZUBO_FILE, "w", encoding="utf-8") as f:
+            f.write("\n".join(list(set(combined_lines))))
+        print(f"🎯 zubo.txt 已生成，共 {len(combined_lines)} 条记录")
+    else:
+        print("⚠️ 未产生有效组合记录")
 
 def third_stage():
     print("🧩 第三阶段：测速并生成 IPTV.txt")
