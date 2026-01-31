@@ -1,4 +1,290 @@
 #EXTM3U x-tvg-url="https://live.beo.qzz.io/e.xml"
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV1.png" group-title="(上海电信1)",CCTV1
+http://124.78.12.70:8686/rtp/239.45.3.145:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV2.png" group-title="(上海电信1)",CCTV2
+http://124.78.12.70:8686/rtp/239.45.3.208:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV3.png" group-title="(上海电信1)",CCTV3
+http://124.78.12.70:8686/rtp/239.45.1.68:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV4.png" group-title="(上海电信1)",CCTV4
+http://124.78.12.70:8686/rtp/239.45.0.2:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV5.png" group-title="(上海电信1)",CCTV5
+http://124.78.12.70:8686/rtp/239.45.1.69:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV5+.png" group-title="(上海电信1)",CCTV5+
+http://124.78.12.70:8686/rtp/233.18.204.67:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV6.png" group-title="(上海电信1)",CCTV6
+http://124.78.12.70:8686/rtp/239.45.1.70:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV7.png" group-title="(上海电信1)",CCTV7
+http://124.78.12.70:8686/rtp/239.45.3.56:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV8.png" group-title="(上海电信1)",CCTV8
+http://124.78.12.70:8686/rtp/239.45.1.71:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV9.png" group-title="(上海电信1)",CCTV9
+http://124.78.12.70:8686/rtp/239.45.3.4:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV10.png" group-title="(上海电信1)",CCTV10
+http://124.78.12.70:8686/rtp/239.45.3.8:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV11.png" group-title="(上海电信1)",CCTV11
+http://124.78.12.70:8686/rtp/239.45.1.196:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV12.png" group-title="(上海电信1)",CCTV12
+http://124.78.12.70:8686/rtp/239.45.3.10:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV13.png" group-title="(上海电信1)",CCTV13
+http://124.78.12.70:8686/rtp/239.45.1.198:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV14.png" group-title="(上海电信1)",CCTV14
+http://124.78.12.70:8686/rtp/239.45.3.23:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV15.png" group-title="(上海电信1)",CCTV15
+http://124.78.12.70:8686/rtp/239.45.1.200:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV16.png" group-title="(上海电信1)",CCTV16
+http://124.78.12.70:8686/rtp/233.18.204.82:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV17.png" group-title="(上海电信1)",CCTV17
+http://124.78.12.70:8686/rtp/239.45.3.52:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV1644K.png" group-title="(上海电信1)",CCTV1644K
+http://124.78.12.70:8686/rtp/239.45.0.12:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV44K.png" group-title="(上海电信1)",CCTV44K
+http://124.78.12.70:8686/rtp/239.45.0.55:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/4K宣传.png" group-title="(上海电信1)",4K宣传
+http://124.78.12.70:8686/rtp/239.45.0.33:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/4K测试.png" group-title="(上海电信1)",4K测试
+http://124.78.12.70:8686/rtp/239.45.1.109:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/BESTV4K动画.png" group-title="(上海电信1)",BESTV4K动画
+http://124.78.12.70:8686/rtp/233.18.204.171:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/BESTV4K电影.png" group-title="(上海电信1)",BESTV4K电影
+http://124.78.12.70:8686/rtp/233.18.204.169:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/BESTV4K记录.png" group-title="(上海电信1)",BESTV4K记录
+http://124.78.12.70:8686/rtp/233.18.204.170:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/东方卫视4K.png" group-title="(上海电信1)",东方卫视4K
+http://124.78.12.70:8686/rtp/233.18.204.224:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/北京卫视4K.png" group-title="(上海电信1)",北京卫视4K
+http://124.78.12.70:8686/rtp/239.45.3.123:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/四川卫视4K.png" group-title="(上海电信1)",四川卫视4K
+http://124.78.12.70:8686/rtp/239.45.3.48:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/天翼4K.png" group-title="(上海电信1)",天翼4K
+http://124.78.12.70:8686/rtp/233.18.204.201:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/山东卫视4K.png" group-title="(上海电信1)",山东卫视4K
+http://124.78.12.70:8686/rtp/239.45.3.180:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/广东卫视4K.png" group-title="(上海电信1)",广东卫视4K
+http://124.78.12.70:8686/rtp/233.18.204.218:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/欢笑剧场4K.png" group-title="(上海电信1)",欢笑剧场4K
+http://124.78.12.70:8686/rtp/239.45.1.4:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/江苏卫视4K.png" group-title="(上海电信1)",江苏卫视4K
+http://124.78.12.70:8686/rtp/233.18.204.226:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/浙江卫视4K.png" group-title="(上海电信1)",浙江卫视4K
+http://124.78.12.70:8686/rtp/233.18.204.216:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/深圳卫视4K.png" group-title="(上海电信1)",深圳卫视4K
+http://124.78.12.70:8686/rtp/233.18.204.219:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/湖南卫视4K.png" group-title="(上海电信1)",湖南卫视4K
+http://124.78.12.70:8686/rtp/233.18.204.210:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/百事通4K.png" group-title="(上海电信1)",百事通4K
+http://124.78.12.70:8686/rtp/233.18.204.169:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/百事通动画4K.png" group-title="(上海电信1)",百事通动画4K
+http://124.78.12.70:8686/rtp/239.45.1.1:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/百事通卡通4K.png" group-title="(上海电信1)",百事通卡通4K
+http://124.78.12.70:8686/rtp/233.18.204.171:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/百事通电影4K.png" group-title="(上海电信1)",百事通电影4K
+http://124.78.12.70:8686/rtp/239.45.3.107:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/百事通纪录4K.png" group-title="(上海电信1)",百事通纪录4K
+http://124.78.12.70:8686/rtp/239.45.1.10:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/湖南卫视.png" group-title="(上海电信1)",湖南卫视
+http://124.78.12.70:8686/rtp/239.45.3.228:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/东方卫视.png" group-title="(上海电信1)",东方卫视
+http://124.78.12.70:8686/rtp/239.45.3.146:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/浙江卫视.png" group-title="(上海电信1)",浙江卫视
+http://124.78.12.70:8686/rtp/239.45.3.178:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/江苏卫视.png" group-title="(上海电信1)",江苏卫视
+http://124.78.12.70:8686/rtp/239.45.3.177:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/北京卫视.png" group-title="(上海电信1)",北京卫视
+http://124.78.12.70:8686/rtp/239.45.3.229:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/湖北卫视.png" group-title="(上海电信1)",湖北卫视
+http://124.78.12.70:8686/rtp/239.45.3.239:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/深圳卫视.png" group-title="(上海电信1)",深圳卫视
+http://124.78.12.70:8686/rtp/239.45.3.231:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/三沙卫视.png" group-title="(上海电信1)",三沙卫视
+http://124.78.12.70:8686/rtp/239.45.0.56:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/东南卫视.png" group-title="(上海电信1)",东南卫视
+http://124.78.12.70:8686/rtp/239.45.1.121:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/云南卫视.png" group-title="(上海电信1)",云南卫视
+http://124.78.12.70:8686/rtp/239.45.3.206:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/兵团卫视.png" group-title="(上海电信1)",兵团卫视
+http://124.78.12.70:8686/rtp/233.18.204.221:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/内蒙古卫视.png" group-title="(上海电信1)",内蒙古卫视
+http://124.78.12.70:8686/rtp/233.18.204.217:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/吉林卫视.png" group-title="(上海电信1)",吉林卫视
+http://124.78.12.70:8686/rtp/239.45.0.6:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/四川卫视.png" group-title="(上海电信1)",四川卫视
+http://124.78.12.70:8686/rtp/239.45.1.23:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/天津卫视.png" group-title="(上海电信1)",天津卫视
+http://124.78.12.70:8686/rtp/239.45.1.124:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/宁夏卫视.png" group-title="(上海电信1)",宁夏卫视
+http://124.78.12.70:8686/rtp/233.18.204.230:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/安徽卫视.png" group-title="(上海电信1)",安徽卫视
+http://124.78.12.70:8686/rtp/239.45.3.143:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/山东卫视.png" group-title="(上海电信1)",山东卫视
+http://124.78.12.70:8686/rtp/239.45.3.238:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/山西卫视.png" group-title="(上海电信1)",山西卫视
+http://124.78.12.70:8686/rtp/239.45.3.205:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/广东卫视.png" group-title="(上海电信1)",广东卫视
+http://124.78.12.70:8686/rtp/239.45.3.230:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/广西卫视.png" group-title="(上海电信1)",广西卫视
+http://124.78.12.70:8686/rtp/239.45.0.5:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/延边卫视.png" group-title="(上海电信1)",延边卫视
+http://124.78.12.70:8686/rtp/233.18.204.155:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/新疆卫视.png" group-title="(上海电信1)",新疆卫视
+http://124.78.12.70:8686/rtp/233.18.204.220:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/旅游卫视.png" group-title="(上海电信1)",旅游卫视
+http://124.78.12.70:8686/rtp/233.18.204.102:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/江西卫视.png" group-title="(上海电信1)",江西卫视
+http://124.78.12.70:8686/rtp/239.45.1.122:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/河北卫视.png" group-title="(上海电信1)",河北卫视
+http://124.78.12.70:8686/rtp/239.45.1.44:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/河南卫视.png" group-title="(上海电信1)",河南卫视
+http://124.78.12.70:8686/rtp/239.45.0.3:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/海南卫视.png" group-title="(上海电信1)",海南卫视
+http://124.78.12.70:8686/rtp/233.18.204.102:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/甘肃卫视.png" group-title="(上海电信1)",甘肃卫视
+http://124.78.12.70:8686/rtp/239.45.0.15:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/西藏卫视.png" group-title="(上海电信1)",西藏卫视
+http://124.78.12.70:8686/rtp/233.18.204.222:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/贵州卫视.png" group-title="(上海电信1)",贵州卫视
+http://124.78.12.70:8686/rtp/239.45.1.80:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/辽宁卫视.png" group-title="(上海电信1)",辽宁卫视
+http://124.78.12.70:8686/rtp/239.45.1.123:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/重庆卫视.png" group-title="(上海电信1)",重庆卫视
+http://124.78.12.70:8686/rtp/239.45.1.84:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/陕西卫视.png" group-title="(上海电信1)",陕西卫视
+http://124.78.12.70:8686/rtp/233.18.204.211:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/青海卫视.png" group-title="(上海电信1)",青海卫视
+http://124.78.12.70:8686/rtp/239.45.0.37:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/黑龙江卫视.png" group-title="(上海电信1)",黑龙江卫视
+http://124.78.12.70:8686/rtp/239.45.3.232:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/BESTV电影介绍.png" group-title="(上海电信1)",BESTV电影介绍
+http://124.78.12.70:8686/rtp/233.18.204.116:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CETV1.png" group-title="(上海电信1)",CETV1
+http://124.78.12.70:8686/rtp/239.45.1.125:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CETV2.png" group-title="(上海电信1)",CETV2
+http://124.78.12.70:8686/rtp/239.45.1.52:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CETV4.png" group-title="(上海电信1)",CETV4
+http://124.78.12.70:8686/rtp/239.45.1.243:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CETV早期教育.png" group-title="(上海电信1)",CETV早期教育
+http://124.78.12.70:8686/rtp/239.45.0.54:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CGTN.png" group-title="(上海电信1)",CGTN
+http://124.78.12.70:8686/rtp/233.18.204.28:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CHC动作电影.png" group-title="(上海电信1)",CHC动作电影
+http://124.78.12.70:8686/rtp/239.45.0.41:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CHC家庭影院.png" group-title="(上海电信1)",CHC家庭影院
+http://124.78.12.70:8686/rtp/239.45.0.40:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CHC影迷电影.png" group-title="(上海电信1)",CHC影迷电影
+http://124.78.12.70:8686/rtp/239.45.0.42:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/上海教育.png" group-title="(上海电信1)",上海教育
+http://124.78.12.70:8686/rtp/239.45.0.13:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/上海新闻.png" group-title="(上海电信1)",上海新闻
+http://124.78.12.70:8686/rtp/239.45.3.209:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/上海新闻综合.png" group-title="(上海电信1)",上海新闻综合
+http://124.78.12.70:8686/rtp/233.18.204.57:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/上海都市.png" group-title="(上海电信1)",上海都市
+http://124.78.12.70:8686/rtp/239.45.3.236:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/世界地理.png" group-title="(上海电信1)",世界地理
+http://124.78.12.70:8686/rtp/239.45.0.46:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/东方影视.png" group-title="(上海电信1)",东方影视
+http://124.78.12.70:8686/rtp/239.45.3.237:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/东方财经.png" group-title="(上海电信1)",东方财经
+http://124.78.12.70:8686/rtp/239.45.0.17:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/东方购物.png" group-title="(上海电信1)",东方购物
+http://124.78.12.70:8686/rtp/233.18.204.61:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/东方购物1.png" group-title="(上海电信1)",东方购物1
+http://124.78.12.70:8686/rtp/239.45.3.74:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/东方购物2.png" group-title="(上海电信1)",东方购物2
+http://124.78.12.70:8686/rtp/239.45.3.75:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/东方购物3.png" group-title="(上海电信1)",东方购物3
+http://124.78.12.70:8686/rtp/239.45.3.207:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/东方购物4.png" group-title="(上海电信1)",东方购物4
+http://124.78.12.70:8686/rtp/239.45.3.208:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/中国天气.png" group-title="(上海电信1)",中国天气
+http://124.78.12.70:8686/rtp/239.45.3.141:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/乐游.png" group-title="(上海电信1)",乐游
+http://124.78.12.70:8686/rtp/239.45.3.135:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/五星体育.png" group-title="(上海电信1)",五星体育
+http://124.78.12.70:8686/rtp/239.45.3.210:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/兵器科技.png" group-title="(上海电信1)",兵器科技
+http://124.78.12.70:8686/rtp/239.45.1.74:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/动漫秀场.png" group-title="(上海电信1)",动漫秀场
+http://124.78.12.70:8686/rtp/239.45.3.134:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/北京纪实科教.png" group-title="(上海电信1)",北京纪实科教
+http://124.78.12.70:8686/rtp/239.45.1.14:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/卡酷少儿.png" group-title="(上海电信1)",卡酷少儿
+http://124.78.12.70:8686/rtp/239.45.0.8:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/哈哈炫动.png" group-title="(上海电信1)",哈哈炫动
+http://124.78.12.70:8686/rtp/239.45.1.55:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/嘉佳卡通.png" group-title="(上海电信1)",嘉佳卡通
+http://124.78.12.70:8686/rtp/233.18.204.151:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/嘉定.png" group-title="(上海电信1)",嘉定
+http://124.78.12.70:8686/rtp/239.45.3.185:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/央广购物.png" group-title="(上海电信1)",央广购物
+http://124.78.12.70:8686/rtp/239.45.0.35:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/央视台球.png" group-title="(上海电信1)",央视台球
+http://124.78.12.70:8686/rtp/239.45.0.44:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/央视文化精品.png" group-title="(上海电信1)",央视文化精品
+http://124.78.12.70:8686/rtp/239.45.1.17:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/女性时尚.png" group-title="(上海电信1)",女性时尚
+http://124.78.12.70:8686/rtp/239.45.0.47:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/好享购物.png" group-title="(上海电信1)",好享购物
+http://124.78.12.70:8686/rtp/233.18.204.36:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/家庭理财.png" group-title="(上海电信1)",家庭理财
+http://124.78.12.70:8686/rtp/233.18.204.157:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/快乐垂钓.png" group-title="(上海电信1)",快乐垂钓
+http://124.78.12.70:8686/rtp/239.45.3.12:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/怀旧剧场.png" group-title="(上海电信1)",怀旧剧场
+http://124.78.12.70:8686/rtp/239.45.0.49:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/文化精品.png" group-title="(上海电信1)",文化精品
+http://124.78.12.70:8686/rtp/233.18.204.186:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/无信号.png" group-title="(上海电信1)",无信号
+http://124.78.12.70:8686/rtp/233.18.204.208:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/未知节目.png" group-title="(上海电信1)",未知节目
+http://124.78.12.70:8686/rtp/233.18.204.202:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/欢笑剧场.png" group-title="(上海电信1)",欢笑剧场
+http://124.78.12.70:8686/rtp/239.45.3.196:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/法治天地.png" group-title="(上海电信1)",法治天地
+http://124.78.12.70:8686/rtp/239.45.1.46:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/游戏风云.png" group-title="(上海电信1)",游戏风云
+http://124.78.12.70:8686/rtp/239.45.3.131:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/生活时尚.png" group-title="(上海电信1)",生活时尚
+http://124.78.12.70:8686/rtp/239.45.3.132:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/电视指南.png" group-title="(上海电信1)",电视指南
+http://124.78.12.70:8686/rtp/239.45.1.73:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/百事通健康.png" group-title="(上海电信1)",百事通健康
+http://124.78.12.70:8686/rtp/239.45.1.28:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/百事通宣传.png" group-title="(上海电信1)",百事通宣传
+http://124.78.12.70:8686/rtp/233.18.204.158:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/百事通画面.png" group-title="(上海电信1)",百事通画面
+http://124.78.12.70:8686/rtp/239.45.3.215:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/百事通纪录.png" group-title="(上海电信1)",百事通纪录
+http://124.78.12.70:8686/rtp/239.45.1.29:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/百事通超级体育.png" group-title="(上海电信1)",百事通超级体育
+http://124.78.12.70:8686/rtp/239.45.3.139:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/百事通预告.png" group-title="(上海电信1)",百事通预告
+http://124.78.12.70:8686/rtp/233.18.204.116:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/第一剧场.png" group-title="(上海电信1)",第一剧场
+http://124.78.12.70:8686/rtp/239.45.0.51:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/第一财经.png" group-title="(上海电信1)",第一财经
+http://124.78.12.70:8686/rtp/239.45.3.211:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/茶.png" group-title="(上海电信1)",茶
+http://124.78.12.70:8686/rtp/239.45.3.18:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/财富天下.png" group-title="(上海电信1)",财富天下
+http://124.78.12.70:8686/rtp/233.18.204.231:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/都市剧场.png" group-title="(上海电信1)",都市剧场
+http://124.78.12.70:8686/rtp/239.45.3.136:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/金色学堂.png" group-title="(上海电信1)",金色学堂
+http://124.78.12.70:8686/rtp/239.45.0.9:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/金鹰卡通.png" group-title="(上海电信1)",金鹰卡通
+http://124.78.12.70:8686/rtp/239.45.3.233:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/金鹰纪实.png" group-title="(上海电信1)",金鹰纪实
+http://124.78.12.70:8686/rtp/239.45.1.45:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/静止画面.png" group-title="(上海电信1)",静止画面
+http://124.78.12.70:8686/rtp/233.18.204.202:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/风云剧场.png" group-title="(上海电信1)",风云剧场
+http://124.78.12.70:8686/rtp/239.45.0.50:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/风云足球.png" group-title="(上海电信1)",风云足球
+http://124.78.12.70:8686/rtp/239.45.0.43:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/风云音乐.png" group-title="(上海电信1)",风云音乐
+http://124.78.12.70:8686/rtp/239.45.0.52:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/高尔夫网球.png" group-title="(上海电信1)",高尔夫网球
+http://124.78.12.70:8686/rtp/239.45.1.72:5140
 #EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV1.png" group-title="(广东电信1)",CCTV1
 http://115.45.243.189:8888/rtp/239.77.0.119:5146
 #EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV2.png" group-title="(广东电信1)",CCTV2
