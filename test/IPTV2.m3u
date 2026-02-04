@@ -285,6 +285,608 @@ http://114.95.80.29:9001/rtp/239.45.0.43:5140
 http://114.95.80.29:9001/rtp/239.45.0.52:5140
 #EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/高尔夫网球.png" group-title="(上海电信1)",高尔夫网球
 http://114.95.80.29:9001/rtp/239.45.1.72:5140
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV1.png" group-title="(天津联通1)",CCTV1
+http://111.167.17.186:5002/rtp/225.1.1.120:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV2.png" group-title="(天津联通1)",CCTV2
+http://111.167.17.186:5002/rtp/225.1.1.133:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV3.png" group-title="(天津联通1)",CCTV3
+http://111.167.17.186:5002/rtp/225.1.1.158:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV4.png" group-title="(天津联通1)",CCTV4
+http://111.167.17.186:5002/rtp/225.1.1.150:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV5.png" group-title="(天津联通1)",CCTV5
+http://111.167.17.186:5002/rtp/225.1.1.160:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV5+.png" group-title="(天津联通1)",CCTV5+
+http://111.167.17.186:5002/rtp/225.1.1.121:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV6.png" group-title="(天津联通1)",CCTV6
+http://111.167.17.186:5002/rtp/225.1.1.195:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV7.png" group-title="(天津联通1)",CCTV7
+http://111.167.17.186:5002/rtp/225.1.1.138:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV8.png" group-title="(天津联通1)",CCTV8
+http://111.167.17.186:5002/rtp/225.1.1.196:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV9.png" group-title="(天津联通1)",CCTV9
+http://111.167.17.186:5002/rtp/225.1.1.119:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV10.png" group-title="(天津联通1)",CCTV10
+http://111.167.17.186:5002/rtp/225.1.1.140:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV11.png" group-title="(天津联通1)",CCTV11
+http://111.167.17.186:5002/rtp/225.1.2.192:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV12.png" group-title="(天津联通1)",CCTV12
+http://111.167.17.186:5002/rtp/225.1.1.142:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV13.png" group-title="(天津联通1)",CCTV13
+http://111.167.17.186:5002/rtp/225.1.2.193:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV14.png" group-title="(天津联通1)",CCTV14
+http://111.167.17.186:5002/rtp/225.1.1.144:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV15.png" group-title="(天津联通1)",CCTV15
+http://111.167.17.186:5002/rtp/225.1.2.194:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV16.png" group-title="(天津联通1)",CCTV16
+http://111.167.17.186:5002/rtp/225.1.2.237:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV17.png" group-title="(天津联通1)",CCTV17
+http://111.167.17.186:5002/rtp/225.1.2.52:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/欢笑剧场4K.png" group-title="(天津联通1)",欢笑剧场4K
+http://111.167.17.186:5002/rtp/225.1.1.139:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/湖南卫视.png" group-title="(天津联通1)",湖南卫视
+http://111.167.17.186:5002/rtp/225.1.1.114:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/东方卫视.png" group-title="(天津联通1)",东方卫视
+http://111.167.17.186:5002/rtp/225.1.2.31:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/浙江卫视.png" group-title="(天津联通1)",浙江卫视
+http://111.167.17.186:5002/rtp/225.1.1.112:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/江苏卫视.png" group-title="(天津联通1)",江苏卫视
+http://111.167.17.186:5002/rtp/225.1.1.126:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/北京卫视.png" group-title="(天津联通1)",北京卫视
+http://111.167.17.186:5002/rtp/225.1.1.113:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/湖北卫视.png" group-title="(天津联通1)",湖北卫视
+http://111.167.17.186:5002/rtp/225.1.1.147:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/深圳卫视.png" group-title="(天津联通1)",深圳卫视
+http://111.167.17.186:5002/rtp/225.1.1.117:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/三沙卫视.png" group-title="(天津联通1)",三沙卫视
+http://111.167.17.186:5002/rtp/225.1.2.181:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/云南卫视.png" group-title="(天津联通1)",云南卫视
+http://111.167.17.186:5002/rtp/225.1.1.61:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/保定卫视.png" group-title="(天津联通1)",保定卫视
+http://111.167.17.186:5002/rtp/225.1.1.83:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/兵团卫视.png" group-title="(天津联通1)",兵团卫视
+http://111.167.17.186:5002/rtp/225.1.1.57:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/内蒙古卫视.png" group-title="(天津联通1)",内蒙古卫视
+http://111.167.17.186:5002/rtp/225.1.1.32:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/吉林卫视.png" group-title="(天津联通1)",吉林卫视
+http://111.167.17.186:5002/rtp/225.1.2.26:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/四川卫视.png" group-title="(天津联通1)",四川卫视
+http://111.167.17.186:5002/rtp/225.1.1.123:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/天津卫视.png" group-title="(天津联通1)",天津卫视
+http://111.167.17.186:5002/rtp/225.1.1.111:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/宁夏卫视.png" group-title="(天津联通1)",宁夏卫视
+http://111.167.17.186:5002/rtp/225.1.1.56:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/安徽卫视.png" group-title="(天津联通1)",安徽卫视
+http://111.167.17.186:5002/rtp/225.1.1.127:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/山东教育卫视.png" group-title="(天津联通1)",山东教育卫视
+http://111.167.17.186:5002/rtp/225.1.2.118:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/山西卫视.png" group-title="(天津联通1)",山西卫视
+http://111.167.17.186:5002/rtp/225.1.1.50:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/广东卫视.png" group-title="(天津联通1)",广东卫视
+http://111.167.17.186:5002/rtp/225.1.1.116:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/广西卫视.png" group-title="(天津联通1)",广西卫视
+http://111.167.17.186:5002/rtp/225.1.2.81:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/新疆卫视.png" group-title="(天津联通1)",新疆卫视
+http://111.167.17.186:5002/rtp/225.1.1.35:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/江西卫视.png" group-title="(天津联通1)",江西卫视
+http://111.167.17.186:5002/rtp/225.1.2.29:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/河东卫视.png" group-title="(天津联通1)",河东卫视
+http://111.167.17.186:5002/rtp/225.1.2.2:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/河北卫视.png" group-title="(天津联通1)",河北卫视
+http://111.167.17.186:5002/rtp/225.1.2.27:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/河南卫视.png" group-title="(天津联通1)",河南卫视
+http://111.167.17.186:5002/rtp/225.1.2.61:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/河西卫视.png" group-title="(天津联通1)",河西卫视
+http://111.167.17.186:5002/rtp/225.1.2.4:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/海南卫视.png" group-title="(天津联通1)",海南卫视
+http://111.167.17.186:5002/rtp/225.1.2.82:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/甘肃卫视.png" group-title="(天津联通1)",甘肃卫视
+http://111.167.17.186:5002/rtp/225.1.1.30:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/蓟州卫视.png" group-title="(天津联通1)",蓟州卫视
+http://111.167.17.186:5002/rtp/225.1.1.82:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/西藏卫视.png" group-title="(天津联通1)",西藏卫视
+http://111.167.17.186:5002/rtp/225.1.1.51:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/贵州卫视.png" group-title="(天津联通1)",贵州卫视
+http://111.167.17.186:5002/rtp/225.1.2.28:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/辽宁卫视.png" group-title="(天津联通1)",辽宁卫视
+http://111.167.17.186:5002/rtp/225.1.1.154:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/重庆卫视.png" group-title="(天津联通1)",重庆卫视
+http://111.167.17.186:5002/rtp/225.1.1.155:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/陕西卫视.png" group-title="(天津联通1)",陕西卫视
+http://111.167.17.186:5002/rtp/225.1.1.41:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/青海卫视.png" group-title="(天津联通1)",青海卫视
+http://111.167.17.186:5002/rtp/225.1.1.54:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/静海卫视.png" group-title="(天津联通1)",静海卫视
+http://111.167.17.186:5002/rtp/225.1.1.110:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/黑龙江卫视.png" group-title="(天津联通1)",黑龙江卫视
+http://111.167.17.186:5002/rtp/225.1.1.115:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CETV早期教育.png" group-title="(天津联通1)",CETV早期教育
+http://111.167.17.186:5002/rtp/225.1.2.207:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CGTN.png" group-title="(天津联通1)",CGTN
+http://111.167.17.186:5002/rtp/225.1.1.27:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CGTN纪录.png" group-title="(天津联通1)",CGTN纪录
+http://111.167.17.186:5002/rtp/225.1.1.55:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CHC动作电影.png" group-title="(天津联通1)",CHC动作电影
+http://111.167.17.186:5002/rtp/225.1.1.215:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CHC家庭影院.png" group-title="(天津联通1)",CHC家庭影院
+http://111.167.17.186:5002/rtp/225.1.1.213:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CHC电影.png" group-title="(天津联通1)",CHC电影
+http://111.167.17.186:5002/rtp/225.1.1.214:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/三角英语.png" group-title="(天津联通1)",三角英语
+http://111.167.17.186:5002/rtp/225.1.2.182:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/世界地理.png" group-title="(天津联通1)",世界地理
+http://111.167.17.186:5002/rtp/225.1.2.171:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/东方财经.png" group-title="(天津联通1)",东方财经
+http://111.167.17.186:5002/rtp/225.1.1.247:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/东方购物.png" group-title="(天津联通1)",东方购物
+http://111.167.17.186:5002/rtp/225.1.1.223:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/中华特产.png" group-title="(天津联通1)",中华特产
+http://111.167.17.186:5002/rtp/225.1.2.197:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/中国天气.png" group-title="(天津联通1)",中国天气
+http://111.167.17.186:5002/rtp/225.1.2.119:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/中学生.png" group-title="(天津联通1)",中学生
+http://111.167.17.186:5002/rtp/225.1.1.193:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/中视购物.png" group-title="(天津联通1)",中视购物
+http://111.167.17.186:5002/rtp/225.1.2.85:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/乐游.png" group-title="(天津联通1)",乐游
+http://111.167.17.186:5002/rtp/225.1.1.145:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/书画.png" group-title="(天津联通1)",书画
+http://111.167.17.186:5002/rtp/225.1.2.22:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/优优宝贝.png" group-title="(天津联通1)",优优宝贝
+http://111.167.17.186:5002/rtp/225.1.2.203:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/优购物.png" group-title="(天津联通1)",优购物
+http://111.167.17.186:5002/rtp/225.1.1.225:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/先锋乒羽.png" group-title="(天津联通1)",先锋乒羽
+http://111.167.17.186:5002/rtp/225.1.1.219:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/兵器科技.png" group-title="(天津联通1)",兵器科技
+http://111.167.17.186:5002/rtp/225.1.2.166:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/动漫秀场.png" group-title="(天津联通1)",动漫秀场
+http://111.167.17.186:5002/rtp/225.1.1.134:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/卡酷少儿.png" group-title="(天津联通1)",卡酷少儿
+http://111.167.17.186:5002/rtp/225.1.1.58:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/哈哈炫动.png" group-title="(天津联通1)",哈哈炫动
+http://111.167.17.186:5002/rtp/225.1.1.62:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/四海钓鱼.png" group-title="(天津联通1)",四海钓鱼
+http://111.167.17.186:5002/rtp/225.1.2.202:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/大港油田企业.png" group-title="(天津联通1)",大港油田企业
+http://111.167.17.186:5002/rtp/225.1.2.14:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/天津IPTV.png" group-title="(天津联通1)",天津IPTV
+http://111.167.17.186:5002/rtp/225.1.2.123:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/天津体育.png" group-title="(天津联通1)",天津体育
+http://111.167.17.186:5002/rtp/225.1.1.122:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/天津少儿.png" group-title="(天津联通1)",天津少儿
+http://111.167.17.186:5002/rtp/225.1.1.125:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/天津影视.png" group-title="(天津联通1)",天津影视
+http://111.167.17.186:5002/rtp/225.1.1.149:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/天津教育.png" group-title="(天津联通1)",天津教育
+http://111.167.17.186:5002/rtp/225.1.1.129:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/天津文艺.png" group-title="(天津联通1)",天津文艺
+http://111.167.17.186:5002/rtp/225.1.1.131:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/天津新闻.png" group-title="(天津联通1)",天津新闻
+http://111.167.17.186:5002/rtp/225.1.1.130:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/天津购物.png" group-title="(天津联通1)",天津购物
+http://111.167.17.186:5002/rtp/225.1.1.151:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/天津都市.png" group-title="(天津联通1)",天津都市
+http://111.167.17.186:5002/rtp/225.1.1.128:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/央广购物.png" group-title="(天津联通1)",央广购物
+http://111.167.17.186:5002/rtp/225.1.1.65:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/央视台球.png" group-title="(天津联通1)",央视台球
+http://111.167.17.186:5002/rtp/225.1.2.170:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/央视文化精品.png" group-title="(天津联通1)",央视文化精品
+http://111.167.17.186:5002/rtp/225.1.2.177:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/女性时尚.png" group-title="(天津联通1)",女性时尚
+http://111.167.17.186:5002/rtp/225.1.2.172:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/好享购物.png" group-title="(天津联通1)",好享购物
+http://111.167.17.186:5002/rtp/225.1.1.224:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/家家购物.png" group-title="(天津联通1)",家家购物
+http://111.167.17.186:5002/rtp/225.1.1.227:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/家庭理*.png" group-title="(天津联通1)",家庭理*
+http://111.167.17.186:5002/rtp/225.1.2.23:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/家有购物.png" group-title="(天津联通1)",家有购物
+http://111.167.17.186:5002/rtp/225.1.1.226:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/幸福剧场.png" group-title="(天津联通1)",幸福剧场
+http://111.167.17.186:5002/rtp/225.1.2.59:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/幸福娱乐.png" group-title="(天津联通1)",幸福娱乐
+http://111.167.17.186:5002/rtp/225.1.2.60:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/幸福彩.png" group-title="(天津联通1)",幸福彩
+http://111.167.17.186:5002/rtp/225.1.1.152:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/快乐垂钓.png" group-title="(天津联通1)",快乐垂钓
+http://111.167.17.186:5002/rtp/225.1.1.92:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/快乐生活.png" group-title="(天津联通1)",快乐生活
+http://111.167.17.186:5002/rtp/225.1.2.24:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/怀旧剧场.png" group-title="(天津联通1)",怀旧剧场
+http://111.167.17.186:5002/rtp/225.1.2.173:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/悦美生活.png" group-title="(天津联通1)",悦美生活
+http://111.167.17.186:5002/rtp/225.1.2.55:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/文物宝库.png" group-title="(天津联通1)",文物宝库
+http://111.167.17.186:5002/rtp/225.1.2.105:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/新动漫.png" group-title="(天津联通1)",新动漫
+http://111.167.17.186:5002/rtp/225.1.1.216:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/极速汽车.png" group-title="(天津联通1)",极速汽车
+http://111.167.17.186:5002/rtp/225.1.1.141:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/梨园.png" group-title="(天津联通1)",梨园
+http://111.167.17.186:5002/rtp/225.1.2.104:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/欢乐动漫.png" group-title="(天津联通1)",欢乐动漫
+http://111.167.17.186:5002/rtp/225.1.1.132:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/武术世界.png" group-title="(天津联通1)",武术世界
+http://111.167.17.186:5002/rtp/225.1.2.129:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/每日影院.png" group-title="(天津联通1)",每日影院
+http://111.167.17.186:5002/rtp/225.1.2.57:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/汽摩.png" group-title="(天津联通1)",汽摩
+http://111.167.17.186:5002/rtp/225.1.1.205:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/法制天地.png" group-title="(天津联通1)",法制天地
+http://111.167.17.186:5002/rtp/225.1.1.237:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/游戏风云.png" group-title="(天津联通1)",游戏风云
+http://111.167.17.186:5002/rtp/225.1.1.135:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/湖北购物.png" group-title="(天津联通1)",湖北购物
+http://111.167.17.186:5002/rtp/225.1.2.183:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/滨海1.png" group-title="(天津联通1)",滨海1
+http://111.167.17.186:5002/rtp/225.1.2.7:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/滨海2.png" group-title="(天津联通1)",滨海2
+http://111.167.17.186:5002/rtp/225.1.2.8:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/环球奇观.png" group-title="(天津联通1)",环球奇观
+http://111.167.17.186:5002/rtp/225.1.1.197:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/环球旅游.png" group-title="(天津联通1)",环球旅游
+http://111.167.17.186:5002/rtp/225.1.1.156:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/生态环境.png" group-title="(天津联通1)",生态环境
+http://111.167.17.186:5002/rtp/225.1.2.201:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/生活时尚.png" group-title="(天津联通1)",生活时尚
+http://111.167.17.186:5002/rtp/225.1.1.143:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/电视指南.png" group-title="(天津联通1)",电视指南
+http://111.167.17.186:5002/rtp/225.1.2.167:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/第一剧场.png" group-title="(天津联通1)",第一剧场
+http://111.167.17.186:5002/rtp/225.1.2.175:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/纪实人文.png" group-title="(天津联通1)",纪实人文
+http://111.167.17.186:5002/rtp/225.1.2.25:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/老故事.png" group-title="(天津联通1)",老故事
+http://111.167.17.186:5002/rtp/225.1.1.188:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/聚鲨环球精选.png" group-title="(天津联通1)",聚鲨环球精选
+http://111.167.17.186:5002/rtp/225.1.1.102:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/茶.png" group-title="(天津联通1)",茶
+http://111.167.17.186:5002/rtp/225.1.2.19:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/车迷.png" group-title="(天津联通1)",车迷
+http://111.167.17.186:5002/rtp/225.1.2.199:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/都市剧场.png" group-title="(天津联通1)",都市剧场
+http://111.167.17.186:5002/rtp/225.1.1.146:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/金色学堂.png" group-title="(天津联通1)",金色学堂
+http://111.167.17.186:5002/rtp/225.1.1.236:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/金鹰卡通.png" group-title="(天津联通1)",金鹰卡通
+http://111.167.17.186:5002/rtp/225.1.2.236:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/金鹰纪实.png" group-title="(天津联通1)",金鹰纪实
+http://111.167.17.186:5002/rtp/225.1.1.124:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/陶瓷.png" group-title="(天津联通1)",陶瓷
+http://111.167.17.186:5002/rtp/225.1.1.153:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/靓妆.png" group-title="(天津联通1)",靓妆
+http://111.167.17.186:5002/rtp/225.1.1.200:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/风云剧场.png" group-title="(天津联通1)",风云剧场
+http://111.167.17.186:5002/rtp/225.1.2.174:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/风云足球.png" group-title="(天津联通1)",风云足球
+http://111.167.17.186:5002/rtp/225.1.2.168:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/风云音乐.png" group-title="(天津联通1)",风云音乐
+http://111.167.17.186:5002/rtp/225.1.2.176:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/风尚生活.png" group-title="(天津联通1)",风尚生活
+http://111.167.17.186:5002/rtp/225.1.2.58:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/风尚购物.png" group-title="(天津联通1)",风尚购物
+http://111.167.17.186:5002/rtp/225.1.2.204:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/高尔夫网球.png" group-title="(天津联通1)",高尔夫网球
+http://111.167.17.186:5002/rtp/225.1.2.169:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/魅力足球.png" group-title="(天津联通1)",魅力足球
+http://111.167.17.186:5002/rtp/225.1.1.137:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV1.png" group-title="(山东电信1)",CCTV1
+http://144.0.57.58:7005/rtp/239.21.1.120:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV2.png" group-title="(山东电信1)",CCTV2
+http://144.0.57.58:7005/rtp/239.21.1.151:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV3.png" group-title="(山东电信1)",CCTV3
+http://144.0.57.58:7005/rtp/239.21.2.45:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV4.png" group-title="(山东电信1)",CCTV4
+http://144.0.57.58:7005/rtp/239.21.1.154:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV5.png" group-title="(山东电信1)",CCTV5
+http://144.0.57.58:7005/rtp/239.21.2.46:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV5+.png" group-title="(山东电信1)",CCTV5+
+http://144.0.57.58:7005/rtp/239.21.1.142:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV6.png" group-title="(山东电信1)",CCTV6
+http://144.0.57.58:7005/rtp/239.21.2.47:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV7.png" group-title="(山东电信1)",CCTV7
+http://144.0.57.58:7005/rtp/239.21.1.152:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV8.png" group-title="(山东电信1)",CCTV8
+http://144.0.57.58:7005/rtp/239.21.2.48:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV9.png" group-title="(山东电信1)",CCTV9
+http://144.0.57.58:7005/rtp/239.21.1.153:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV10.png" group-title="(山东电信1)",CCTV10
+http://144.0.57.58:7005/rtp/239.21.1.155:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV11.png" group-title="(山东电信1)",CCTV11
+http://144.0.57.58:7005/rtp/239.21.2.2:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV12.png" group-title="(山东电信1)",CCTV12
+http://144.0.57.58:7005/rtp/239.21.1.156:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV13.png" group-title="(山东电信1)",CCTV13
+http://144.0.57.58:7005/rtp/239.21.2.3:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV14.png" group-title="(山东电信1)",CCTV14
+http://144.0.57.58:7005/rtp/239.21.1.157:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV15.png" group-title="(山东电信1)",CCTV15
+http://144.0.57.58:7005/rtp/239.21.2.4:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV17.png" group-title="(山东电信1)",CCTV17
+http://144.0.57.58:7005/rtp/239.21.1.186:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/湖南卫视.png" group-title="(山东电信1)",湖南卫视
+http://144.0.57.58:7005/rtp/239.21.1.158:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/东方卫视.png" group-title="(山东电信1)",东方卫视
+http://144.0.57.58:7005/rtp/239.21.1.111:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/浙江卫视.png" group-title="(山东电信1)",浙江卫视
+http://144.0.57.58:7005/rtp/239.21.1.90:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/江苏卫视.png" group-title="(山东电信1)",江苏卫视
+http://144.0.57.58:7005/rtp/239.21.1.89:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/北京卫视.png" group-title="(山东电信1)",北京卫视
+http://144.0.57.58:7005/rtp/239.21.1.88:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/湖北卫视.png" group-title="(山东电信1)",湖北卫视
+http://144.0.57.58:7005/rtp/239.21.1.163:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/深圳卫视.png" group-title="(山东电信1)",深圳卫视
+http://144.0.57.58:7005/rtp/239.21.1.93:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/东南卫视.png" group-title="(山东电信1)",东南卫视
+http://144.0.57.58:7005/rtp/239.21.1.113:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/吉林卫视.png" group-title="(山东电信1)",吉林卫视
+http://144.0.57.58:7005/rtp/239.21.2.49:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/四川卫视.png" group-title="(山东电信1)",四川卫视
+http://144.0.57.58:7005/rtp/239.21.2.15:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/天津卫视.png" group-title="(山东电信1)",天津卫视
+http://144.0.57.58:7005/rtp/239.21.1.165:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/安徽卫视.png" group-title="(山东电信1)",安徽卫视
+http://144.0.57.58:7005/rtp/239.21.1.159:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/山东卫视.png" group-title="(山东电信1)",山东卫视
+http://144.0.57.58:7005/rtp/239.21.1.87:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/广东卫视.png" group-title="(山东电信1)",广东卫视
+http://144.0.57.58:7005/rtp/239.21.1.92:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/江西卫视.png" group-title="(山东电信1)",江西卫视
+http://144.0.57.58:7005/rtp/239.21.1.167:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/河北卫视.png" group-title="(山东电信1)",河北卫视
+http://144.0.57.58:7005/rtp/239.21.1.168:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/河南卫视.png" group-title="(山东电信1)",河南卫视
+http://144.0.57.58:7005/rtp/239.21.2.37:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/海南卫视.png" group-title="(山东电信1)",海南卫视
+http://144.0.57.58:7005/rtp/239.21.2.14:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/甘肃卫视.png" group-title="(山东电信1)",甘肃卫视
+http://144.0.57.58:7005/rtp/239.21.2.22:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/贵州卫视.png" group-title="(山东电信1)",贵州卫视
+http://144.0.57.58:7005/rtp/239.21.1.166:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/辽宁卫视.png" group-title="(山东电信1)",辽宁卫视
+http://144.0.57.58:7005/rtp/239.21.1.164:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/重庆卫视.png" group-title="(山东电信1)",重庆卫视
+http://144.0.57.58:7005/rtp/239.21.1.233:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/青海卫视.png" group-title="(山东电信1)",青海卫视
+http://144.0.57.58:7005/rtp/239.21.2.51:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/黑龙江卫视.png" group-title="(山东电信1)",黑龙江卫视
+http://144.0.57.58:7005/rtp/239.21.1.28:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/BRTV纪实科教.png" group-title="(山东电信1)",BRTV纪实科教
+http://144.0.57.58:7005/rtp/239.21.1.172:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CETV1.png" group-title="(山东电信1)",CETV1
+http://144.0.57.58:7005/rtp/239.21.2.7:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CGTN.png" group-title="(山东电信1)",CGTN
+http://144.0.57.58:7005/rtp/239.21.2.30:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CGTN俄语.png" group-title="(山东电信1)",CGTN俄语
+http://144.0.57.58:7005/rtp/239.21.2.35:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CGTN法语.png" group-title="(山东电信1)",CGTN法语
+http://144.0.57.58:7005/rtp/239.21.2.33:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CGTN纪录.png" group-title="(山东电信1)",CGTN纪录
+http://144.0.57.58:7005/rtp/239.21.2.31:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CGTN西班牙语.png" group-title="(山东电信1)",CGTN西班牙语
+http://144.0.57.58:7005/rtp/239.21.2.32:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CGTN阿拉伯语.png" group-title="(山东电信1)",CGTN阿拉伯语
+http://144.0.57.58:7005/rtp/239.21.2.34:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/上海纪实人文.png" group-title="(山东电信1)",上海纪实人文
+http://144.0.57.58:7005/rtp/239.21.1.171:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/东平综合.png" group-title="(山东电信1)",东平综合
+http://144.0.57.58:7005/rtp/239.21.1.216:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/东明1.png" group-title="(山东电信1)",东明1
+http://144.0.57.58:7005/rtp/239.21.1.246:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/东营公共.png" group-title="(山东电信1)",东营公共
+http://144.0.57.58:7005/rtp/239.21.1.82:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/东营新闻.png" group-title="(山东电信1)",东营新闻
+http://144.0.57.58:7005/rtp/239.21.1.81:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/中国交通.png" group-title="(山东电信1)",中国交通
+http://144.0.57.58:7005/rtp/239.21.1.115:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/乳山综合.png" group-title="(山东电信1)",乳山综合
+http://144.0.57.58:7005/rtp/239.21.1.220:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/兖州新闻.png" group-title="(山东电信1)",兖州新闻
+http://144.0.57.58:7005/rtp/239.21.1.224:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/兰陵综合.png" group-title="(山东电信1)",兰陵综合
+http://144.0.57.58:7005/rtp/239.21.1.237:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/冠县综合.png" group-title="(山东电信1)",冠县综合
+http://144.0.57.58:7005/rtp/239.21.1.250:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/单县综合.png" group-title="(山东电信1)",单县综合
+http://144.0.57.58:7005/rtp/239.21.2.21:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/夏津公共.png" group-title="(山东电信1)",夏津公共
+http://144.0.57.58:7005/rtp/239.21.1.102:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/夏津综合.png" group-title="(山东电信1)",夏津综合
+http://144.0.57.58:7005/rtp/239.21.1.106:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/宁津综合.png" group-title="(山东电信1)",宁津综合
+http://144.0.57.58:7005/rtp/239.21.2.50:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/宁阳2.png" group-title="(山东电信1)",宁阳2
+http://144.0.57.58:7005/rtp/239.21.1.144:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/宁阳综合.png" group-title="(山东电信1)",宁阳综合
+http://144.0.57.58:7005/rtp/239.21.1.143:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/安丘综合.png" group-title="(山东电信1)",安丘综合
+http://144.0.57.58:7005/rtp/239.21.2.13:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/定陶TV1.png" group-title="(山东电信1)",定陶TV1
+http://144.0.57.58:7005/rtp/239.21.1.244:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/寿光蔬菜.png" group-title="(山东电信1)",寿光蔬菜
+http://144.0.57.58:7005/rtp/239.21.1.218:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/山东体育.png" group-title="(山东电信1)",山东体育
+http://144.0.57.58:7005/rtp/239.21.1.141:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/山东农科.png" group-title="(山东电信1)",山东农科
+http://144.0.57.58:7005/rtp/239.21.1.183:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/山东少儿.png" group-title="(山东电信1)",山东少儿
+http://144.0.57.58:7005/rtp/239.21.1.208:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/山东教育.png" group-title="(山东电信1)",山东教育
+http://144.0.57.58:7005/rtp/239.21.1.169:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/山东文旅.png" group-title="(山东电信1)",山东文旅
+http://144.0.57.58:7005/rtp/239.21.1.176:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/山东新闻.png" group-title="(山东电信1)",山东新闻
+http://144.0.57.58:7005/rtp/239.21.1.140:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/山东生活.png" group-title="(山东电信1)",山东生活
+http://144.0.57.58:7005/rtp/239.21.1.175:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/山东综艺.png" group-title="(山东电信1)",山东综艺
+http://144.0.57.58:7005/rtp/239.21.1.177:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/山东齐鲁.png" group-title="(山东电信1)",山东齐鲁
+http://144.0.57.58:7005/rtp/239.21.1.134:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/巨野新闻.png" group-title="(山东电信1)",巨野新闻
+http://144.0.57.58:7005/rtp/239.21.1.215:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/平原综合.png" group-title="(山东电信1)",平原综合
+http://144.0.57.58:7005/rtp/239.21.1.243:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/平度新闻综合.png" group-title="(山东电信1)",平度新闻综合
+http://144.0.57.58:7005/rtp/239.21.1.228:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/平阴综合.png" group-title="(山东电信1)",平阴综合
+http://144.0.57.58:7005/rtp/239.21.1.221:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/德州新闻综合.png" group-title="(山东电信1)",德州新闻综合
+http://144.0.57.58:7005/rtp/239.21.1.75:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/德州经济生活.png" group-title="(山东电信1)",德州经济生活
+http://144.0.57.58:7005/rtp/239.21.1.76:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/惠民综合.png" group-title="(山东电信1)",惠民综合
+http://144.0.57.58:7005/rtp/239.21.1.181:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/文登TV1.png" group-title="(山东电信1)",文登TV1
+http://144.0.57.58:7005/rtp/239.21.1.174:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/新泰乡村.png" group-title="(山东电信1)",新泰乡村
+http://144.0.57.58:7005/rtp/239.21.1.248:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/新泰综合.png" group-title="(山东电信1)",新泰综合
+http://144.0.57.58:7005/rtp/239.21.1.210:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/新闻综合.png" group-title="(山东电信1)",新闻综合
+http://144.0.57.58:7005/rtp/239.21.1.193:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/无棣综合.png" group-title="(山东电信1)",无棣综合
+http://144.0.57.58:7005/rtp/239.21.1.214:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/日照岚山.png" group-title="(山东电信1)",日照岚山
+http://144.0.57.58:7005/rtp/239.21.1.209:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/日照新闻.png" group-title="(山东电信1)",日照新闻
+http://144.0.57.58:7005/rtp/239.21.1.79:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/日照科教.png" group-title="(山东电信1)",日照科教
+http://144.0.57.58:7005/rtp/239.21.1.80:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/昌乐综合.png" group-title="(山东电信1)",昌乐综合
+http://144.0.57.58:7005/rtp/239.21.1.245:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/昌邑综合.png" group-title="(山东电信1)",昌邑综合
+http://144.0.57.58:7005/rtp/239.21.2.27:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/曲阜综合.png" group-title="(山东电信1)",曲阜综合
+http://144.0.57.58:7005/rtp/239.21.1.225:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/栖霞综合.png" group-title="(山东电信1)",栖霞综合
+http://144.0.57.58:7005/rtp/239.21.1.229:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/桓台综合.png" group-title="(山东电信1)",桓台综合
+http://144.0.57.58:7005/rtp/239.21.1.105:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/梁山综合.png" group-title="(山东电信1)",梁山综合
+http://144.0.57.58:7005/rtp/239.21.2.12:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/武城综合.png" group-title="(山东电信1)",武城综合
+http://144.0.57.58:7005/rtp/239.21.1.239:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/武城综艺影视.png" group-title="(山东电信1)",武城综艺影视
+http://144.0.57.58:7005/rtp/239.21.1.240:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/沂源新闻.png" group-title="(山东电信1)",沂源新闻
+http://144.0.57.58:7005/rtp/239.21.1.114:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/沾化综合.png" group-title="(山东电信1)",沾化综合
+http://144.0.57.58:7005/rtp/239.21.1.226:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/济南娱乐.png" group-title="(山东电信1)",济南娱乐
+http://144.0.57.58:7005/rtp/239.21.1.66:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/济南少儿.png" group-title="(山东电信1)",济南少儿
+http://144.0.57.58:7005/rtp/239.21.1.68:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/济南影视.png" group-title="(山东电信1)",济南影视
+http://144.0.57.58:7005/rtp/239.21.1.65:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/济南教育.png" group-title="(山东电信1)",济南教育
+http://144.0.57.58:7005/rtp/239.21.1.133:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/济南新闻综合.png" group-title="(山东电信1)",济南新闻综合
+http://144.0.57.58:7005/rtp/239.21.1.94:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/济南生活.png" group-title="(山东电信1)",济南生活
+http://144.0.57.58:7005/rtp/239.21.1.64:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/济南都市.png" group-title="(山东电信1)",济南都市
+http://144.0.57.58:7005/rtp/239.21.1.63:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/济南鲁中.png" group-title="(山东电信1)",济南鲁中
+http://144.0.57.58:7005/rtp/239.21.1.149:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/济宁公共.png" group-title="(山东电信1)",济宁公共
+http://144.0.57.58:7005/rtp/239.21.2.20:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/济宁生活.png" group-title="(山东电信1)",济宁生活
+http://144.0.57.58:7005/rtp/239.21.1.139:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/济宁综合.png" group-title="(山东电信1)",济宁综合
+http://144.0.57.58:7005/rtp/239.21.2.19:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/济阳综合.png" group-title="(山东电信1)",济阳综合
+http://144.0.57.58:7005/rtp/239.21.1.187:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/海看剧场.png" group-title="(山东电信1)",海看剧场
+http://144.0.57.58:7005/rtp/239.21.1.98:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/淄博影视.png" group-title="(山东电信1)",淄博影视
+http://144.0.57.58:7005/rtp/239.21.1.182:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/淄博新闻综合.png" group-title="(山东电信1)",淄博新闻综合
+http://144.0.57.58:7005/rtp/239.21.1.84:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/淄博生活.png" group-title="(山东电信1)",淄博生活
+http://144.0.57.58:7005/rtp/239.21.1.109:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/淄博都市.png" group-title="(山东电信1)",淄博都市
+http://144.0.57.58:7005/rtp/239.21.1.83:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/湖南金鹰纪实.png" group-title="(山东电信1)",湖南金鹰纪实
+http://144.0.57.58:7005/rtp/239.21.1.170:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/滨州公共.png" group-title="(山东电信1)",滨州公共
+http://144.0.57.58:7005/rtp/239.21.1.119:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/滨州新闻.png" group-title="(山东电信1)",滨州新闻
+http://144.0.57.58:7005/rtp/239.21.1.118:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/滨州综合.png" group-title="(山东电信1)",滨州综合
+http://144.0.57.58:7005/rtp/239.21.1.238:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/潍坊寿光新闻.png" group-title="(山东电信1)",潍坊寿光新闻
+http://144.0.57.58:7005/rtp/239.21.1.180:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/潍坊新闻综合.png" group-title="(山东电信1)",潍坊新闻综合
+http://144.0.57.58:7005/rtp/239.21.1.77:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/潍坊经济生活.png" group-title="(山东电信1)",潍坊经济生活
+http://144.0.57.58:7005/rtp/239.21.1.78:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/烟台公共.png" group-title="(山东电信1)",烟台公共
+http://144.0.57.58:7005/rtp/239.21.1.117:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/烟台影视.png" group-title="(山东电信1)",烟台影视
+http://144.0.57.58:7005/rtp/239.21.1.204:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/烟台新闻综合.png" group-title="(山东电信1)",烟台新闻综合
+http://144.0.57.58:7005/rtp/239.21.1.116:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/烟台经济科技.png" group-title="(山东电信1)",烟台经济科技
+http://144.0.57.58:7005/rtp/239.21.1.205:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/牟平新闻.png" group-title="(山东电信1)",牟平新闻
+http://144.0.57.58:7005/rtp/239.21.2.10:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/牟平生活.png" group-title="(山东电信1)",牟平生活
+http://144.0.57.58:7005/rtp/239.21.2.11:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/禹城综合.png" group-title="(山东电信1)",禹城综合
+http://144.0.57.58:7005/rtp/239.21.1.241:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/禹城综艺.png" group-title="(山东电信1)",禹城综艺
+http://144.0.57.58:7005/rtp/239.21.1.242:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/聊城民生.png" group-title="(山东电信1)",聊城民生
+http://144.0.57.58:7005/rtp/239.21.1.254:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/聊城综合.png" group-title="(山东电信1)",聊城综合
+http://144.0.57.58:7005/rtp/239.21.1.253:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/茌平综合.png" group-title="(山东电信1)",茌平综合
+http://144.0.57.58:7005/rtp/239.21.1.219:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/荣成综合.png" group-title="(山东电信1)",荣成综合
+http://144.0.57.58:7005/rtp/239.21.1.227:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/莘县综合.png" group-title="(山东电信1)",莘县综合
+http://144.0.57.58:7005/rtp/239.21.1.211:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/莱西综合.png" group-title="(山东电信1)",莱西综合
+http://144.0.57.58:7005/rtp/239.21.1.247:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/菏泽1.png" group-title="(山东电信1)",菏泽1
+http://144.0.57.58:7005/rtp/239.21.1.103:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/菏泽2.png" group-title="(山东电信1)",菏泽2
+http://144.0.57.58:7005/rtp/239.21.2.18:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/蒙阴综合.png" group-title="(山东电信1)",蒙阴综合
+http://144.0.57.58:7005/rtp/239.21.2.23:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/诸城新闻.png" group-title="(山东电信1)",诸城新闻
+http://144.0.57.58:7005/rtp/239.21.1.217:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/邹城综合.png" group-title="(山东电信1)",邹城综合
+http://144.0.57.58:7005/rtp/239.21.1.185:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/郓城综合.png" group-title="(山东电信1)",郓城综合
+http://144.0.57.58:7005/rtp/239.21.1.251:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/长清新闻.png" group-title="(山东电信1)",长清新闻
+http://144.0.57.58:7005/rtp/239.21.1.107:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/阳信新闻综合.png" group-title="(山东电信1)",阳信新闻综合
+http://144.0.57.58:7005/rtp/239.21.1.252:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/陵城综合.png" group-title="(山东电信1)",陵城综合
+http://144.0.57.58:7005/rtp/239.21.2.24:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/青岛1.png" group-title="(山东电信1)",青岛1
+http://144.0.57.58:7005/rtp/239.21.1.69:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/青岛2.png" group-title="(山东电信1)",青岛2
+http://144.0.57.58:7005/rtp/239.21.1.70:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/青岛3.png" group-title="(山东电信1)",青岛3
+http://144.0.57.58:7005/rtp/239.21.1.71:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/青岛4.png" group-title="(山东电信1)",青岛4
+http://144.0.57.58:7005/rtp/239.21.1.72:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/青岛5.png" group-title="(山东电信1)",青岛5
+http://144.0.57.58:7005/rtp/239.21.1.73:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/青岛6.png" group-title="(山东电信1)",青岛6
+http://144.0.57.58:7005/rtp/239.21.1.74:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/青州文化旅游.png" group-title="(山东电信1)",青州文化旅游
+http://144.0.57.58:7005/rtp/239.21.1.231:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/青州综合.png" group-title="(山东电信1)",青州综合
+http://144.0.57.58:7005/rtp/239.21.1.232:5002
+#EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/齐河新闻.png" group-title="(山东电信1)",齐河新闻
+http://144.0.57.58:7005/rtp/239.21.1.230:5002
 #EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV1.png" group-title="(江苏电信1)",CCTV1
 http://121.239.179.141:8000/rtp/239.49.8.19:9614
 #EXTINF:-1 tvg-logo="https://tb.yubo.qzz.io/logo/CCTV2.png" group-title="(江苏电信1)",CCTV2
