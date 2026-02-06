@@ -162,6 +162,9 @@ CHANNEL_MAPPING = {
 # ===============================
 # 第一阶段：IP 爬取与分类
 # ===============================
+# ===============================
+# 第一阶段：IP 爬取与分类 (已增加地域过滤)
+# ===============================
 def first_stage():
     os.makedirs(IP_DIR, exist_ok=True)
     all_ips = set()
@@ -174,6 +177,9 @@ def first_stage():
         except Exception as e:
             print(f"❌ 爬取失败：{e}")
 
+    # 定义排除名单
+    exclude_provinces = ["江苏省", "浙江省", "上海市", "广东省"]
+    
     # 获取地理位置并分类
     province_isp_dict = {}
     for ip_port in all_ips:
@@ -187,14 +193,23 @@ def first_stage():
         try:
             res = requests.get(f"http://ip-api.com/json/{host}?lang=zh-CN", timeout=10)
             data = res.json()
+            
+            # 提取省份和运营商
             province = data.get("regionName", "未知")
             isp_raw = (data.get("isp") or "").lower()
             isp = "电信" if "telecom" in isp_raw else "联通" if "unicom" in isp_raw else "移动" if "mobile" in isp_raw else "未知"
             
+            # 🔥 核心修改：过滤“江浙沪广”的“电信”IP
+            if isp == "电信" and any(p in province for p in exclude_provinces):
+                print(f"⏩ 过滤排除区域：{province}{isp} ({ip_port})")
+                continue
+
             if isp != "未知":
                 fname = f"{province}{isp}.txt"
                 province_isp_dict.setdefault(fname, set()).add(ip_port)
-        except: continue
+        except Exception as e: 
+            print(f"⚠️ 归属地查询异常: {e}")
+            continue
 
     # 更新计数器
     count = get_run_count() + 1
@@ -207,19 +222,6 @@ def first_stage():
                 f.write(ip_port + "\n")
     print(f"✅ 第一阶段完成，当前轮次：{count}")
     return count
-
-def get_run_count():
-    if os.path.exists(COUNTER_FILE):
-        try:
-            with open(COUNTER_FILE, "r", encoding="utf-8") as f:
-                return int(f.read().strip() or "0")
-        except: return 0
-    return 0
-
-def save_run_count(count):
-    os.makedirs(os.path.dirname(COUNTER_FILE), exist_ok=True)
-    with open(COUNTER_FILE, "w", encoding="utf-8") as f:
-        f.write(str(count))
 
 # ===============================
 # 第二阶段：生成 zubo.txt
