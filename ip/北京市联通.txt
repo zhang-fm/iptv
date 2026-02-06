@@ -56,3 +56,5 @@ www.brucex.space:4022
 111.199.196.252:4022
 cards.imwork.net:15893
 cards.imwork.net:8086
+cards.imwork.net:15893
+cards.imwork.net:8086
