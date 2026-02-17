@@ -77,3 +77,5 @@ www.njazc.cn
 www.yyysnas.cn
 171.213.153.145:10000
 www.yyysnas.cn
+171.213.153.145:10000
+www.yyysnas.cn
