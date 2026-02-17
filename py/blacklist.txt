@@ -857,3 +857,7 @@
 218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
 114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
 111.167.17.186:5002 # 死链
+121.236.139.92:8887 # 屏蔽区域: Jiangsu Jiangsu Network of ChinaTelecom
+218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
+114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
+111.167.17.186:5002 # 死链
