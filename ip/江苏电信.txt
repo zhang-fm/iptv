@@ -9,3 +9,4 @@
 221.227.250.215:8888
 221.227.250.215:8888
 wangzg.synology.me:4022
+wangzg.synology.me:4022
