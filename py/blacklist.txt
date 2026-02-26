@@ -1571,3 +1571,11 @@
 218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
 114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
 111.167.17.186:5002 # 死链
+183.151.56.214:4022 # 死链
+59.35.53.194:1024 # 屏蔽区域: Guangdong China Telecom
+111.193.228.92:8888 # 死链
+115.237.68.90:8888 # 死链
+114.218.70.233:4000 # 屏蔽区域: Jiangsu China Telecom
+218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
+114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
+111.167.17.186:5002 # 死链
