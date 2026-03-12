@@ -2,3 +2,4 @@
 sx-zb-lt.sohu.blog:6000
 sx-zb-lt.sohu.blog:6000
 sx-zb-lt.sohu.blog:6000
+sx-zb-lt.sohu.blog:6000
