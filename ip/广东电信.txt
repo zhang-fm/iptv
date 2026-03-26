@@ -8,3 +8,5 @@
 idc.zymok.cn:10000
 125.94.174.115:8881
 blog.cdlxkill.cn
+113.65.176.226:10000
+blog.cdlxkill.cn
