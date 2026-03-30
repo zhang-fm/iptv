@@ -5135,3 +5135,11 @@ nuonuojiajia.xyz:4022 # 死链
 111.167.17.186:5002 # 死链
 114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
 144.0.57.58:7005 # 死链
+113.75.189.240:2086 # 屏蔽区域: Guangdong China Telecom
+183.56.120.121:40000 # 屏蔽区域: Guangdong China Telecom
+119.98.123.127:8888 # 死链
+218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
+123.112.240.132:5555 # 死链
+114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
+111.167.17.186:5002 # 死链
+144.0.57.58:7005 # 死链
